@@ -1,1 +1,2 @@
-# interactive_art_installation
+# Interactive Art Installation
+
