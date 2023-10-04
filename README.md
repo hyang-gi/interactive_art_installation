@@ -7,5 +7,6 @@ The project is now completed, and to learn more about the design process, visit 
 
 ### Table of Contents
 
-1. [Resources](https://github.com/hyang-gi/interactive_art_installation/issues?q=is%3Aissue+is%3Aopen+label%3Aresources)
-2. [Instagram](https://www.instagram.com/_spacescape)
+1. [Project Timeline](https://github.com/hyang-gi/interactive_art_installation/issues/11)
+2. [Resources](https://github.com/hyang-gi/interactive_art_installation/issues?q=is%3Aissue+is%3Aopen+label%3Aresources)
+3. [Instagram](https://www.instagram.com/_spacescape)
